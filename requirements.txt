@@ -1,0 +1,20 @@
+# Multi-Agent Research System
+# Recommended Python version: 3.10+
+
+# Agent orchestration and LCEL (Runnable) pipelines
+langchain
+langchain-core
+
+# Google Gemini models through LangChain
+langchain-google-genai
+
+# You.com Search API (official Python SDK)
+youdotcom
+
+# Webpage parsing and HTTP requests
+beautifulsoup4
+requests
+lxml
+
+# Environment variable and API-key management
+python-dotenv
